@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-For detailed code, see "main.dart"
+For detailed code, see the folder lib, "lib/main.dart"
 
 ## Final Result image:
 
