@@ -6,4 +6,4 @@ For detailed code, see the folder lib, "lib/main.dart"
 
 ## Final Result image:
 
-<img src='BusinessCard_iOS.png' width="150">
+<img src='BusinessCard_iOS.png' width="120">
